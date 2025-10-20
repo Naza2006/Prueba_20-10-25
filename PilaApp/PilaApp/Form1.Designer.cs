@@ -35,6 +35,9 @@
             this.tbNombres = new System.Windows.Forms.TextBox();
             this.tbCargos = new System.Windows.Forms.TextBox();
             this.tbSalarios = new System.Windows.Forms.TextBox();
+            this.lblNombres = new System.Windows.Forms.Label();
+            this.lblCargos = new System.Windows.Forms.Label();
+            this.lblSalario = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnAgregar
@@ -94,11 +97,41 @@
             this.tbSalarios.Size = new System.Drawing.Size(100, 20);
             this.tbSalarios.TabIndex = 7;
             // 
+            // lblNombres
+            // 
+            this.lblNombres.AutoSize = true;
+            this.lblNombres.Location = new System.Drawing.Point(48, 61);
+            this.lblNombres.Name = "lblNombres";
+            this.lblNombres.Size = new System.Drawing.Size(49, 13);
+            this.lblNombres.TabIndex = 8;
+            this.lblNombres.Text = "Nombres";
+            // 
+            // lblCargos
+            // 
+            this.lblCargos.AutoSize = true;
+            this.lblCargos.Location = new System.Drawing.Point(51, 87);
+            this.lblCargos.Name = "lblCargos";
+            this.lblCargos.Size = new System.Drawing.Size(40, 13);
+            this.lblCargos.TabIndex = 9;
+            this.lblCargos.Text = "Cargos";
+            // 
+            // lblSalario
+            // 
+            this.lblSalario.AutoSize = true;
+            this.lblSalario.Location = new System.Drawing.Point(54, 113);
+            this.lblSalario.Name = "lblSalario";
+            this.lblSalario.Size = new System.Drawing.Size(39, 13);
+            this.lblSalario.TabIndex = 10;
+            this.lblSalario.Text = "Salario";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(318, 450);
+            this.Controls.Add(this.lblSalario);
+            this.Controls.Add(this.lblCargos);
+            this.Controls.Add(this.lblNombres);
             this.Controls.Add(this.tbSalarios);
             this.Controls.Add(this.tbCargos);
             this.Controls.Add(this.tbNombres);
@@ -121,6 +154,9 @@
         private System.Windows.Forms.TextBox tbNombres;
         private System.Windows.Forms.TextBox tbCargos;
         private System.Windows.Forms.TextBox tbSalarios;
+        private System.Windows.Forms.Label lblNombres;
+        private System.Windows.Forms.Label lblCargos;
+        private System.Windows.Forms.Label lblSalario;
     }
 }
 
