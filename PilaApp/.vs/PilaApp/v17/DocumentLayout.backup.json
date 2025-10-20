@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Naza\\Desktop\\Programacion_Estructurada\\Prueba_20-10-25\\PilaApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Naza\\Desktop\\prueba123\\Prueba_20-10-25\\PilaApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3C79CD2-C7FF-44EF-9377-B245CA361BB5}|PilaApp\\PilaApp.csproj|c:\\users\\naza\\desktop\\programacion_estructurada\\prueba_20-10-25\\pilaapp\\pilaapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C3C79CD2-C7FF-44EF-9377-B245CA361BB5}|PilaApp\\PilaApp.csproj|c:\\users\\naza\\desktop\\prueba123\\prueba_20-10-25\\pilaapp\\pilaapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C79CD2-C7FF-44EF-9377-B245CA361BB5}|PilaApp\\PilaApp.csproj|solutionrelative:pilaapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C79CD2-C7FF-44EF-9377-B245CA361BB5}|PilaApp\\PilaApp.csproj|c:\\users\\naza\\desktop\\prueba123\\prueba_20-10-25\\pilaapp\\pilaapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C3C79CD2-C7FF-44EF-9377-B245CA361BB5}|PilaApp\\PilaApp.csproj|solutionrelative:pilaapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,10 +23,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Naza\\Desktop\\Programacion_Estructurada\\Prueba_20-10-25\\PilaApp\\PilaApp\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Naza\\Desktop\\prueba123\\Prueba_20-10-25\\PilaApp\\PilaApp\\Form1.cs",
               "RelativeDocumentMoniker": "PilaApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\Naza\\Desktop\\Programacion_Estructurada\\Prueba_20-10-25\\PilaApp\\PilaApp\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Naza\\Desktop\\prueba123\\Prueba_20-10-25\\PilaApp\\PilaApp\\Form1.cs",
+              "RelativeToolTip": "PilaApp\\Form1.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:20:48.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Naza\\Desktop\\prueba123\\Prueba_20-10-25\\PilaApp\\PilaApp\\Form1.cs",
+              "RelativeDocumentMoniker": "PilaApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Naza\\Desktop\\prueba123\\Prueba_20-10-25\\PilaApp\\PilaApp\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "PilaApp\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T13:52:26.547Z",
